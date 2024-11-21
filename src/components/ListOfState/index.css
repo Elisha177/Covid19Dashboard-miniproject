@@ -1,0 +1,64 @@
+.list-state-class {
+  display: flex;
+  list-style-type: none;
+  width: 100%;
+}
+.state-name-class {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #f1f5f9;
+  padding-left: 30px;
+}
+.link-class {
+  text-decoration: none;
+  width: 20%;
+}
+.state-confirmed {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  color: #ff073a;
+  width: 16%;
+  text-align: end;
+}
+
+.state-active {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  color: #007bff;
+  width: 16%;
+  text-align: end;
+}
+
+.state-recovered {
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 14px;
+  width: 16%;
+  text-align: end;
+  color: #28a745;
+}
+.state-deceased {
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 14px;
+  color: #6c757d;
+  width: 16%;
+  text-align: end;
+}
+
+.state-population {
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 14px;
+  color: #94a3b8;
+  width: 16%;
+  text-align: end;
+  margin-right: 30px;
+}
